@@ -1,17 +1,5 @@
 <h1>Hello, I'm Tyler! <br/><a href="https://github.com/TylerOmune">Aspiring Cybersecurity Analyst, <a href="https://www.linkedin.com/in/tyleromune/">Computer Science & Cybersecurity Graduate</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
-
-- <b>SOC Homelab</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>Malware Analysis Project </b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-
 
 <h2> 🤳 Connect with me:</h2>
 
