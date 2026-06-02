@@ -1,4 +1,4 @@
-<h1>Hello, I'm Tyler! <br/><a href="https://github.com/TylerOmune">Aspiring Cybersecurity Analyst, <a href="https://www.linkedin.com/in/tyleromune/">Computer Science & Cybersecurity Graduate</a>
+<h1>Hello, I'm Tyler! 
 
 
 <h2> 🤳 Connect with me:</h2>
